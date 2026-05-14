@@ -11,7 +11,7 @@ A simple calculator application designed to perform basic arithmetic operations 
 - Fast and lightweight
 
 ## Technologies Used
-- Python / C++ / Java (replace with your language)
+- Python 
 - Basic programming concepts
 - Functions and conditional statements
 
